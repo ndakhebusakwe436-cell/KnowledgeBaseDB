@@ -1,5 +1,9 @@
 # Knowledge Base Database
 
+## Entity Relationship Diagram
+
+![ERD](./ERD.png)
+
 ## Project Description
 This project contains the database schema for a Knowledge Base Management System.
 
